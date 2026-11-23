@@ -1,0 +1,8 @@
+{
+  "name": "MMH Places",
+  "homeassistant": "2025.1.0",
+  "render_readme": true,
+  "zip_release": true,
+  "filename": "mmh_places.zip",
+  "country": ["BR"]
+}

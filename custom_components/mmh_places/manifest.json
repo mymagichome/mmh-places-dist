@@ -1,0 +1,21 @@
+{
+  "domain": "mmh_places",
+  "name": "MMH Places",
+  "codeowners": [
+    "@mymagichome"
+  ],
+  "config_flow": true,
+  "dependencies": [
+    "zone"
+  ],
+  "after_dependencies": [
+    "person"
+  ],
+  "documentation": "https://github.com/mymagichome/mmh-places-dist",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "0.1.0",
+  "issue_tracker": "https://github.com/mymagichome/mmh-places-dist/issues"
+}
