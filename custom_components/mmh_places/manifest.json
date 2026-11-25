@@ -14,8 +14,10 @@
   "documentation": "https://github.com/mymagichome/mmh-places-dist",
   "integration_type": "service",
   "iot_class": "cloud_polling",
-  "requirements": [],
+  "requirements": [
+    "pywaze>=1.1.1"
+  ],
   "single_config_entry": true,
-  "version": "0.7.0",
+  "version": "0.8.0",
   "issue_tracker": "https://github.com/mymagichome/mmh-places-dist/issues"
 }
